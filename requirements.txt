@@ -1,0 +1,5 @@
+yadisk==3.4.0
+aiofiles==25.1.0
+httpx==0.28.1
+pydantic-settings==2.12.0
+pydantic==2.12.5
