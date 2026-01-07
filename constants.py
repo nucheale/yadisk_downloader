@@ -1,0 +1,3 @@
+MAIN_YADISK_PATH = "/"
+MAIN_LOCAL_PATH = "downloaded"
+ONE_FOLDER_YADISK_PATH = "Фотокамера"
